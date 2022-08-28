@@ -26,9 +26,12 @@ humbergernav.addEventListener('click',()=>navbar.classList.toggle('active'));
  */
         return(
             <header>
-                <div className="logo" >
+                <div className="logo  " > 
                         <img src={logo} alt="rog" />
-
+                        <div className="dark-red" > 
+                        republic of gamers
+                            
+                             </div>
                 </div>
                 <div className="humbergernav" onClick={this.toggleClass} >
                     <div className="line"></div>
