@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ROG-React-Demo-site/static/css/main.23d2d217.css",
+    "main.js": "/ROG-React-Demo-site/static/js/main.9d538f4e.js",
+    "static/js/787.8f3675d4.chunk.js": "/ROG-React-Demo-site/static/js/787.8f3675d4.chunk.js",
+    "static/media/ROG.png": "/ROG-React-Demo-site/static/media/ROG.9735fa98d9a298b571be.png",
+    "static/media/7032-fontps (1).ttf": "/ROG-React-Demo-site/static/media/7032-fontps (1).5009174bbb62c27533bc.ttf",
+    "index.html": "/ROG-React-Demo-site/index.html",
+    "main.23d2d217.css.map": "/ROG-React-Demo-site/static/css/main.23d2d217.css.map",
+    "main.9d538f4e.js.map": "/ROG-React-Demo-site/static/js/main.9d538f4e.js.map",
+    "787.8f3675d4.chunk.js.map": "/ROG-React-Demo-site/static/js/787.8f3675d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23d2d217.css",
+    "static/js/main.9d538f4e.js"
+  ]
+}
